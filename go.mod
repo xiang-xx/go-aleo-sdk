@@ -1,4 +1,4 @@
-module github.com/xiang-xx/go-aleo-sd
+module github.com/xiang-xx/go-aleo-sdk
 
 go 1.23.0
 
